@@ -17,4 +17,4 @@ mvn clean install package
 ```
 
 ### Database Diagram
-![alt text](https://github.com/jefsterjr/ticket-log/diagram.png)
+![alt text](https://github.com/jefsterjr/ticket_log/blob/main/diagram.png)

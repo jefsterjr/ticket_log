@@ -17,8 +17,8 @@ services:
     volumes: 
       - ${DIRECTORY_PATH}:/usr/app
 
-  ticket-log-front:
-    build: ./ticket-log-front
+  ticket-log-view:
+    build: ./ticket-log-view
     expose:
       - 4200
     ports:
